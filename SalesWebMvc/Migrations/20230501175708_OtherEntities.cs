@@ -62,6 +62,8 @@ namespace SalesWebMvc.Migrations
                 name: "IX_Seller_DepartmentId",
                 table: "Seller",
                 column: "DepartmentId");
+
+
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
