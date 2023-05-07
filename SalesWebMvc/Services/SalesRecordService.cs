@@ -33,6 +33,7 @@ namespace SalesWebMvc.Services
                 .Include(x => x.Seller.Department)
                 .OrderByDescending(x => x.Date)
                 .ToListAsync();
+            //Uso de expressão lamba com o LINQ
         }
     }
 }
