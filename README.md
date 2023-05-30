@@ -50,22 +50,13 @@ Um objetivo futuro para o projeto é a migração para os Serviços da Azure, pe
 
 <p>Tela de Vendedores<br/><img src="Design/Seller.png" alt="Tela de Vendedores" width="750px" height="auto"></p><br/>
 
+<p>Tela de Departamentos<br/><img src="Design/Departments.png" alt="Tela de Departamentos" width="750px" height="auto"></p><br/>
 
+<p>Tela de Vendas<br/><img src="Design/SalesRecord.png" alt="Tela de Busca" width="750px" height="auto"></p><br/>
 
+<p>Tela de Busca Simples<br/><img src="Design/SimpleSearch.png" alt="Tela de Busca Simples" width="750px" height="auto">/<p><br/>
 
-<p><br/>Tela de Departamentos<img src="Design/Departments.png" alt="Tela de Departamentos" width="750px" height="auto"></p><br/>
-
-
-
-<p><br/>Tela de Vendas<img src=Design/SalesRecord.png" alt="Tela de Busca" width="750px" height="auto"></p><br/>
-
-
-
-<p><br/>Tela de Busca Simples<img src="Design/SimpleSearch.png" alt="Tela de Busca Simples" width="750px" height="auto">/<p><br/>
-
-
-
-<p><br/>Tela de Busca Agrupada<img src="Design/GroupingSearch.png" alt="Tela de Busca Agrupada" width="750px" height="auto"><p><br/>
+<p>Tela de Busca Agrupada<br/><img src="Design/GroupingSearch.png" alt="Tela de Busca Agrupada" width="750px" height="auto"><p><br/>
 
 
 
