@@ -48,23 +48,24 @@ Um objetivo futuro para o projeto é a migração para os Serviços da Azure, pe
 
 ## Capturas de Tela
 
-![Tela de Vendedores](Design/Seller.png)
+<p>Tela de Vendedores<br/><img src="Design/Seller.png" alt="Tela de Vendedores" width="750px" height="auto"></p><br/>
 
 
 
-![Tela de Departamentos](Designs/Departaments.png)
+
+<p><br/>Tela de Departamentos<img src="Design/Departments.png" alt="Tela de Departamentos" width="750px" height="auto"></p><br/>
 
 
 
-![Tela de Vendas](Design/SalesRecord.png)
+<p><br/>Tela de Vendas<img src=Design/SalesRecord.png" alt="Tela de Busca" width="750px" height="auto"></p><br/>
 
 
 
-![Tela de Busca Simples](Design/SimpleSearch.png)
+<p><br/>Tela de Busca Simples<img src="Design/SimpleSearch.png" alt="Tela de Busca Simples" width="750px" height="auto">/<p><br/>
 
 
 
-![Tela de Busca Agrupada](Design/GroupingSearch.png)
+<p><br/>Tela de Busca Agrupada<img src="Design/GroupingSearch.png" alt="Tela de Busca Agrupada" width="750px" height="auto"><p><br/>
 
 
 
