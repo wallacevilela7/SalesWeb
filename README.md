@@ -49,19 +49,23 @@ Um objetivo futuro para o projeto é a migração para os Serviços da Azure, pe
 ## Capturas de Tela
 
 ![Tela de Vendedores](Design/Seller.png)
-*Descrição da captura de tela da seção de Funcionários*
+
+
 
 ![Tela de Departamentos](Designs/Departaments.png)
-*Descrição da captura de tela da seção de Departamentos*
+
+
 
 ![Tela de Vendas](Design/SalesRecord.png)
-*Descrição da captura de tela da seção de Vendas*
 
-![Tela de Vendas](Design/SimpleSearch.png)
-*Descrição da captura de tela da seção de Vendas*
 
-![Tela de Vendas](Design/GroupingSearch.png)
-*Descrição da captura de tela da seção de Vendas*
+
+![Tela de Busca Simples](Design/SimpleSearch.png)
+
+
+
+![Tela de Busca Agrupada](Design/GroupingSearch.png)
+
 
 
 ## Instalação e Uso
@@ -92,8 +96,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato.
 
-- E-mail: [seu-email@example.com](mailto:seu-email@example.com)
-- GitHub: [seu-usuário](https://github.com/seu-usuário)
+- E-mail: [wallace.vilela9@outlook.com](mailto:[wallace.vilela9@outlook.com)
+- GitHub: [Wallace Vilela](https://github.com/wallacevilela7)
 
 ## Agradecimentos
 
