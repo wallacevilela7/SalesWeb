@@ -93,7 +93,7 @@ Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para e
 
 ## Agradecimentos
 
-Gostaríamos de agradecer a todos os contribuidores e usuários que tornaram este projeto possível.
+Agradeço a todos, os meus mentores e professores, colegas e contribuidores e usuários que tornaram este projeto possível.
 
 ## Referências
 
