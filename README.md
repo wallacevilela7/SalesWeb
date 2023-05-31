@@ -1,4 +1,4 @@
-# Sales Web MVC
+# Sales Web MVC 
 
 Um sistema de gerenciamento de vendas com funcionalidades de criação, exclusão, edição e pesquisa de funcionários, departamentos e registros de vendas. Desenvolvido utilizando C#, .NET Framework, ASP.NET 2.1, Visual Studio 2019, Bootstrap e JavaScript para manipulação do DOM.
 
@@ -101,3 +101,5 @@ Agradeço a todos, os meus mentores e professores, colegas e contribuidores e us
 - [ASP.NET Documentation](https://docs.microsoft.com/en-us/aspnet/)
 - [Bootstrap Documentation](https://getbootstrap.com/docs/)
 - [Azure Services](https://azure.microsoft.com/)
+ 
+#### Happy Coding 🚀
